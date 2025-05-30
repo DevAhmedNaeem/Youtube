@@ -67,10 +67,6 @@ If you wish to contribute to this project or improve the code, feel free to fork
 * Enhance the design with animations and transitions.
 * Include a search bar and improve the navigation.
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 About Me
 
 Hi! I'm a **17-year-old programmer** learning how to become a full-stack developer. This project is one of my early steps in learning front-end development. Feel free to check out my other projects on my GitHub and follow me on my journey.
