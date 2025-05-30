@@ -17,8 +17,8 @@ This project is a **YouTube Clone Landing Page**, built using **HTML5** and **CS
 
 ## 📸 Screenshots
 
-[![image](https://github.com/user-attachments/assets/2ddb89db-53c1-4c1b-b50a-a117e88f7f66)
-)
+[image](https://github.com/user-attachments/assets/2ddb89db-53c1-4c1b-b50a-a117e88f7f66)
+
 
 ## 🚀 Getting Started
 
