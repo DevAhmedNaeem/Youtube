@@ -71,5 +71,5 @@ If you wish to contribute to this project or improve the code, feel free to fork
 
 ## 👨‍💻 About Me
 
-Hi! I'm a **17-year-old programmer** learning how to become a full-stack developer. This project is one of my early steps in learning front-end development. Feel free to check out my other projects on my GitHub and follow me on my journey.
+Hi! I'm a **18-year-old programmer** learning how to become a full-stack developer. This project is one of my early steps in learning front-end development. Feel free to check out my other projects on my GitHub and follow me on my journey.
 
