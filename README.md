@@ -23,4 +23,3 @@ This project is a **YouTube Clone Landing Page**, built using **HTML5** and **CS
 
 * Add JavaScript for dynamic elements (like video controls, like/dislike buttons, etc.).
 * Enhance the design with animations and transitions.
-* Include a search bar and improve the navigation.
